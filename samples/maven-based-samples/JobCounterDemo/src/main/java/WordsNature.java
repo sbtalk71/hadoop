@@ -1,0 +1,1 @@
+public enum WordsNature { STARTS_WITH_DIGIT, STARTS_WITH_LETTER, ALL }
